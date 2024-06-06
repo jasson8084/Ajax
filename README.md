@@ -1,4 +1,4 @@
-# Buscador de Usuarios con AJAX y PH
+# Buscador de Usuarios con AJAX y PHP
 
 ## Descripción del Proyecto
 
